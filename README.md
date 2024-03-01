@@ -1,5 +1,5 @@
 ## Hola, mi nombre es Ulises Saucedo 👋
-Programador trainee, actualmente terminando mis estudios en la secundaria EEST N°5, a la espera de nuevos retos. ¡Sígueme para ver mi progresión! 🔄
+Comencé mi viaje en la programación a los 15 años, inmerso en una tecnicatura que ha sido fundamental en mi formación. Enfrenté diversos desafíos que contribuyeron al desarrollo de mis habilidades y conocimientos.
 
 <div align=center>
 
