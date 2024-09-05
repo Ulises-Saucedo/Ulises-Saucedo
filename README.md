@@ -1,9 +1,9 @@
-## Hola 👋
+## Hi!
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ulises-Saucedo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-### Hola, mi nombre es Ulises Saucedo
+### I'm Ulises Saucedo, a fullstack dev building things 🚀
 
-Comencé mi viaje en la programación a los 15 años, inmerso en una tecnicatura que ha sido fundamental en mi formación. Enfrenté diversos desafíos que contribuyeron al desarrollo de mis habilidades y conocimientos.
+Always learning
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -17,3 +17,5 @@ Comencé mi viaje en la programación a los 15 años, inmerso en una tecnicatura
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+📫 Contact 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulises-saucedo/)
