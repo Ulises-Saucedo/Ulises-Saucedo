@@ -12,12 +12,8 @@
 
 <h2>Github stats</h2>
 <div style="display: flex;">
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ulises-Saucedo&amp;show_icons=true&rank_icon=github&theme=dracula" alt="GitHub Stats">
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ulises-Saucedo&theme=dracula"  />
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ulises-Saucedo&amp;show_icons=true&rank_icon=github&theme=dracula" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ulises-Saucedo&theme=dracula"  />
 </div>
 
 <h2>Spotify</h2>
