@@ -1,23 +1,31 @@
-## Hi!
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ulises-Saucedo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm Ulises, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" width="13"/> <b>Buenos Aires, Argentina</b>, currently living in <b>Buenos Aires</b>. </p>
 
-### I'm Ulises Saucedo, a fullstack dev building things 🚀
+<p>
+<a href="https://x.com/6GinT">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/ulises-saucedo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
+</p>
 
-Always learning
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<h2>Github stats</h2>
+<div style="display: flex;">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ulises-Saucedo&amp;show_icons=true&rank_icon=github&theme=dracula" alt="GitHub Stats">
+    </p>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ulises-Saucedo&theme=dracula"  />
+    </p>
 </div>
 
-📫 Contact 
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulises-saucedo/)
+<h2>Spotify</h2>
+<div style="display: flex;">
+    <p align="center">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jtigmox3s3v2ojvdvx7ji5bom4&cover_image=true&theme=default&show_offline=false&interchange=true&bar_color=53b14f&bar_color_cover=true">
+    </p>
+    <p align="center">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jtigmox3s3v2ojvdvx7ji5bom4&count=5">
+    </p>
+</div>
