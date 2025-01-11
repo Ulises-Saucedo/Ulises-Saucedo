@@ -18,10 +18,6 @@
 
 <h2>Spotify</h2>
 <div style="display: flex;">
-    <p align="center">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jtigmox3s3v2ojvdvx7ji5bom4&cover_image=true&theme=default&show_offline=false&interchange=true&bar_color=53b14f&bar_color_cover=true">
-    </p>
-    <p align="center">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jtigmox3s3v2ojvdvx7ji5bom4&count=5">
-    </p>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jtigmox3s3v2ojvdvx7ji5bom4&cover_image=true&theme=default&show_offline=false&interchange=true&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jtigmox3s3v2ojvdvx7ji5bom4&count=5">
 </div>
