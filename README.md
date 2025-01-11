@@ -11,13 +11,13 @@
 </p>
 
 <h2>Github stats</h2>
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Ulises-Saucedo&amp;show_icons=true&rank_icon=github&theme=dracula" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ulises-Saucedo&theme=dracula"  />
 </div>
 
 <h2>Spotify</h2>
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jtigmox3s3v2ojvdvx7ji5bom4&cover_image=true&theme=default&show_offline=false&interchange=true&bar_color=53b14f&bar_color_cover=true">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jtigmox3s3v2ojvdvx7ji5bom4&count=5">
 </div>
